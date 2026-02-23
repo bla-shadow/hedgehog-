@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "zolakabandudi@gmail.com",
+    "password": "zola50",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,16 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
-    ""
+    "100079347704626"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your_Bot_Name",
-  "prefix": "/",
+  "nickNameBot": "°—.𝐒𝐡𝐚𝐝𝐨𝐰✃𝐆𝐩𝐭ﾒ",
+  "prefix": "~",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
